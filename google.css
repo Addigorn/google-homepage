@@ -6,6 +6,7 @@ body {
 }
 a {
         color: #545454;
+        font-size: 80%;
         text-decoration: none;
         padding-right: 10px;
 }
